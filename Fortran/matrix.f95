@@ -29,8 +29,9 @@
         REAL(kind=8) , dimension(:,:), allocatable :: C
         integer :: status
 
+        n = 2000
 
-        read(*,*)n
+        !read(*,*)n
 
 
         allocate(A(n,n), stat=status)

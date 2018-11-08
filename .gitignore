@@ -1,1 +1,5 @@
 *.out
+C#/MatrixMult/.vs
+C#/MatrixMult/MatrixMult/bin
+C#/MatrixMult/MatrixMult/obj
+matmul
